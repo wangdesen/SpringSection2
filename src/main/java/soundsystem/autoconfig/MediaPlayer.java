@@ -1,4 +1,4 @@
-package autoconfig.soundsystem;
+package soundsystem.autoconfig;
 
 /**
  * 抽象的CD播放设备
