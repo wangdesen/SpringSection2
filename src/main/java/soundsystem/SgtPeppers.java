@@ -1,6 +1,9 @@
 package soundsystem;
 import org.springframework.stereotype.Component;
 
+/**
+ * 一个具体的CD，作为组件
+ * */
 @Component
 public class SgtPeppers implements CompactDisc {
 
