@@ -10,6 +10,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
+import autoconfig.soundsystem.CDPlayerConfig;
+import autoconfig.soundsystem.CompactDisc;
+import autoconfig.soundsystem.MediaPlayer;
+
 /**
  * 依赖注入测试类
  * */
